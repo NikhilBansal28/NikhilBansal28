@@ -1,0 +1,22 @@
+1. support geolocation in browser
+
+2. high Accuracy
+
+3. no cashing
+
+
+4.timeout
+
+5. watch position cont.
+
+6. map coordinate set(0,0)
+
+7 openstratmap
+
+8.zoom level high
+
+9. create marker
+
+10. if marker for id exist update its posn otherwise create a new marker
+
+11. when user is disconnect remove marker
